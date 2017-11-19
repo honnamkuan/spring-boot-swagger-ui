@@ -1,4 +1,4 @@
 # spring-boot-swagger-ui
 Example to enable automated API documentation Swagger UI (via SpringFox) on Spring Boot
 
-![2017-11-19 18_27_29-swagger ui](https://user-images.githubusercontent.com/5896391/32989772-c6f141e8-cd57-11e7-978c-34c35b0c81d8.png)
+[![27b6e1ffc521fa53fbdef75a83e7dfce.png](https://pictr.com/images/2017/11/19/27b6e1ffc521fa53fbdef75a83e7dfce.png)](https://pictr.com/image/lmAOJ)
